@@ -55,7 +55,7 @@ Later, the app was updated to fetch data dynamically using the IGDB API ([API Do
 ## Installation
 1. Clone the repository: 
 ``` bash
-git clone 
+git clone git@github.com:maiyenkhuong/INSA_MyGamesList_20242025.git 
 ```
 2. Open the project in Android Studio
 3. Configure your IGDB API credentials in IGDBApi.kt:
